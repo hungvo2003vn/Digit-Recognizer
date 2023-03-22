@@ -39,3 +39,9 @@ Accuracy of the model up to: 96%, include GUI App to interact with user
     <img src="https://user-images.githubusercontent.com/108314498/226809373-c858c2f5-1cd7-4ae8-b116-85f8b9cf6e71.png" alt="image" style="width:25%">
   </div>
 </div>
+
+
+<div class="row">
+    <img src="https://user-images.githubusercontent.com/108314498/226808811-f97e354b-1532-466f-8527-73e4af0890df.png" alt="image" style="width:25%">
+    <img src="https://user-images.githubusercontent.com/108314498/226808869-07f62b25-b5aa-4ba6-bb18-f6a518456b44.png" alt="image" style="width:25%">
+  </div>
